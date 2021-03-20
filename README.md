@@ -28,6 +28,10 @@ Purpose:Using Keras Convolutional Networks for image processing and detection.
 | run_assignment_6.2b.py | 
 | run_assignment_6.3.py | 
 
+| File Name  | Description |
+| ------ | ------ |
+| run_assignment_6.1.py | [plugins/dropbox/README.md][PlDb] |
+
 ## Results
 
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.1_Confusion%20Matrix.png)
