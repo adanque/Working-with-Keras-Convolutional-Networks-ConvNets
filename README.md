@@ -3,13 +3,12 @@
 ## _Deep Learning with Keras for processing image identification_
 
 Author: Alan Danque
+
 ![A remote image](https://adanque.github.io/assets/img/KerasConvolutional.jpg)
+
 Using Keras Convolutional Networks for image processing and detection.
 
-## Features
-- Python
-
-- ✨Python Libraries Used: ✨
+## Pythonic Libraries Used in this project
 - keras
 - tensorflow
 - imageio
