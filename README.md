@@ -16,7 +16,9 @@ Purpose:Using Keras Convolutional Networks for image processing and detection.
 - ✨Repo Structure: ✨
 
 ├───Data
+
 ├───ResNet50.h5
+
 └───results
     └───predictions
         └───resnet50
