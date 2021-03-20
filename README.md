@@ -53,25 +53,21 @@ Using Keras Convolutional Networks for image processing and detection.
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.1_Incorrect%20Predictions.png)
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.1_Model%20Accuracy%20Validation.png)
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.1_Model%20Loss%20Validation.png)
-
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.1_Pixel%20Value%20Distribution.png)
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.1_Sample%20Review%20of%209%20Digits.png)
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.2A_Confusion%20Matrix.png)
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.2A_Correct%20Predictions%20Sample.png)
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.2A_Incorrect%20Predictions.png)
-
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.2A_Sample%20Review%20of%209%20CiFar%20Image.png)
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.2A_Summarized_Diagnostics_Plot.png)
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.2B_Confusion%20Matrix.png)
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.2B_Correct%20Predictions%20Sample.png)
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.2B_Incorrect%20Predictions.png)
-
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.2B_Sample%20Review%20of%209%20CiFar%20Image.png)
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.2B_Summarized_Diagnostics_Plot.png)
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.2_Confusion%20Matrix.png)
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.2_Correct%20Predictions%20Sample.png)
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.2_Incorrect%20Predictions.png)
-
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.2_Sample%20Review%20of%209%20CiFar%20Image.png)
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.2_Summarized_Diagnostics_Plot.png)
 ![A remote image](https://github.com/adanque/Working-with-Keras-Convolutional-Networks-ConvNets/blob/main/results/Assignment_6.2_Summarized_Diagnostics_Plot_Epochs_10.png)
