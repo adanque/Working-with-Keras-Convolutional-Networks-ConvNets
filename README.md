@@ -2,7 +2,9 @@
 # Working with Keras Convolutional Networks ConvNets
 ## _Deep Learning with Keras for processing image identification_
 
-Author: Alan Danque
+<a href="https://www.linkedin.com/in/alandanque"> Author: Alan Danque </a>
+
+<a href="https://adanque.github.io/">Click here to go back to Portfolio Website </a>
 
 ![A remote image](https://adanque.github.io/assets/img/KerasConvolutional.jpg)
 
