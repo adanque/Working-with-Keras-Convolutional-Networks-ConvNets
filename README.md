@@ -41,10 +41,10 @@ Using Keras Convolutional Networks for image processing and detection.
 
 | File Name  | Description |
 | ------ | ------ |
-| run_assignment_6.1.py | Uses GPU for image prediction of handwritten numbers |
-| run_assignment_6.2.py | Uses GPU for image prediction of handwritten numbers with softmax layers with validations |
-| run_assignment_6.2b.py | Uses GPU for identification of objects within images using a confusion matrix and validations |
-| run_assignment_6.3.py | Uses GPU for prediction of number within image |
+| run_Image_Prediction_Handwritten_Numbers.py | Uses GPU for image prediction of handwritten numbers |
+| run_Image_Prediction_Handwritten_Numbers_Softmax.py | Uses GPU for image prediction of handwritten numbers with softmax layers with validations |
+| run_Image_Object_Identification.py | Uses GPU for identification of objects within images using a confusion matrix and validations |
+| run_Image_Prediction_Numbers.py | Uses GPU for prediction of number within image |
 
 ## Results
 
